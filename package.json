@@ -4,7 +4,7 @@
   "description": "About Techfest",
   "scripts": {
     "start": "node index.js"
-    // You may add other scripts here as needed
+
   },
   "repository": {
     "type": "git",
